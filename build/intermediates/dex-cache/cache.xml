@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\androidstudio2017\Restaurant\app\libs\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="E:\androidstudio2017\Restaurant\app\build\intermediates\pre-dexed\debug\gson-2.3.1_2c57a90ed85393b69f8891fc8aa3280240a31795.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidstudio2017\Restaurant\SlidingMenu-master\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d7da2015c735e3730a670085516557be4897e18">
+        <dex dex="E:\androidstudio2017\Restaurant\app\build\intermediates\pre-dexed\debug\classes_dd605a07dccc214a7418a4adca4795970eb16860.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidstudio2017\Restaurant\XUtils\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1c608d0c8c2dba557e526499a28e8d35ff5b601">
+        <dex dex="E:\androidstudio2017\Restaurant\app\build\intermediates\pre-dexed\debug\classes_b804b080dc2936b4a0aaaa6a0f152138e3353644.jar" />
+    </item>
+
+</items>
